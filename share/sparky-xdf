@@ -1,0 +1,1 @@
+?package(sparky-xdf):needs="X11" section="Applications/System"        title="Disk Usage" command="/usr/bin/sparky-xdf" icon="drive-harddisk"

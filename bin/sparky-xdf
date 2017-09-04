@@ -1,0 +1,34 @@
+#! /bin/bash
+# -*- mode: sh -*-
+#
+# Graphicat frontend for df(1) command
+# Author: Victor Ananjevsky <ananasik@gmail.com> 2012
+#
+# Remastered for SparkyLinux by Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2013/06/07
+# Last update 2016/05/24
+#
+# Copyright Paweł Pijanowski 2013, 2014, 2015, 2016 under the GNU GPL3 License
+
+# get default's locale file
+DEFLOCDIR="/usr/share/sparky/sparky-xdf"
+if [ "`cat /etc/default/locale | grep es_AR`" != "" ]; then
+. $DEFLOCDIR/es
+elif [ "`cat /etc/default/locale | grep fr_FR`" != "" ]; then
+. $DEFLOCDIR/fr
+elif [ "`cat /etc/default/locale | grep it_IT`" != "" ]; then
+. $DEFLOCDIR/it
+elif [ "`cat /etc/default/locale | grep ja_JP`" != "" ]; then
+. $DEFLOCDIR/ja
+elif [ "`cat /etc/default/locale | grep pl_PL`" != "" ]; then
+. $DEFLOCDIR/pl
+elif [ "`cat /etc/default/locale | grep pt_BR`" != "" ]; then
+. $DEFLOCDIR/pt_BR
+elif [ "`cat /etc/default/locale | grep pt_PT`" != "" ]; then
+. $DEFLOCDIR/pt_PT
+else
+. $DEFLOCDIR/en
+fi
+
+eval exec yad --window-icon=drive-harddisk --image=drive-harddisk --title="$LOCAL1" --buttons-layout=end --button=$LOCAL2:0 --multi-progress \
+        $(df -h $1 | tail -n +2 | awk '{printf "--bar=\"<b>%s</b> (%s) [%s/%s]\" %s ", $6, $1, $3, $2, $5}')
+exit 0

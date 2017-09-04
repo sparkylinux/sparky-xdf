@@ -1,0 +1,11 @@
+# Archivo de localización en español para Sparky XDF.
+# Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/22
+# Bajo la licencia GNU GPL v2
+# Ultima actualización 2016/01/13
+
+LOCAL1="Uso_del_disco"
+LOCAL2="Salir"
+
+### .desktop file to be translated too
+# Name[es_AR]=Uso del disco
+# Comment[es_AR]=Muestra el estado del uso del disco

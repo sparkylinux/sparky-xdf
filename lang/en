@@ -1,0 +1,11 @@
+# English localization file for Sparky XDF.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
+# Under the GNU GPL v2
+# Last update 2015/11/11
+
+LOCAL1="Disk_Usage"
+LOCAL2="Exit"
+
+### .desktop file to be translated too
+# Name[en_US]=Disk Usage
+# Comment[en_US]=Shows status of the disk usage

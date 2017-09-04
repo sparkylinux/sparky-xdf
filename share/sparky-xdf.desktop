@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=Disk Usage
+Name[es_AR]=Uso del Disco
+Name[fr_FR]=Utilisation du disque
+Name[it_IT]=Utilizzo del Disco
+Name[ja_JP]=ディスク使用量
+Name[pl]=Użycie Dysku
+Name[pt_BR]=Utilização do Disco
+Name[pt_PT]=Utilização do Disco
+Comment=Shows status of the disk usage
+Comment[es_AR]=Muestra el estado del uso del disco
+Comment[fr_FR]=Montre le niveau d'utilisation du disque
+Comment[it_IT]=Mostra lo status e l'utilizzo del disco
+Comment[ja_JP]=ディスク使用量の状況を表示します
+Comment[pl]=Wyświetla stan użycia dysku
+Comment[pt_BR]=Mostra o estado da utilização do disco
+Comment[pt_PT]=Mostra o estado da utilização do Disco
+Exec=/usr/bin/sparky-xdf
+Icon=drive-harddisk
+Terminal=false
+Type=Application
+Categories=System;
