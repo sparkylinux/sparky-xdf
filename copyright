@@ -2,7 +2,7 @@ Upstream Author:
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
 
 Files: *
-    Copyrigt (C) Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2013, 2014, 2015, 2016
+    Copyrigt (C) Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2013-2018
     License: GNU GPLv3
 
 File: 'sparky-xdg' is based on 'xdg' script created by Victor Ananjevsky <ananasik@gmail.com> 2012
@@ -14,6 +14,10 @@ File: es
 
 File: fr
     Copyright (C) 2016 hiver <hiver@club-internet.fr>
+    License: GPL-2
+
+File: id_ID
+    Copyright (C) 2018 les kompie
     License: GPL-2
 
 File: it

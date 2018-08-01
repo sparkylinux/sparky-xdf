@@ -1,11 +1,9 @@
 # File di localizzazione in Italiano per Sparky XDF.
 # Copyright 2015 Carlo Troiani <troianicarlo@gmail.com> 12/11/2015
 # Rilasciato sotto licenza GNU GPL v2
-# Ultimo aggiornamento 30/11/2015
-
+# Last update 2018/08/01 by pavroo
 LOCAL1="Utilizzo_del_Disco"
 LOCAL2="Esci"
-
 ### .desktop file to be translated too
 # Name[it_IT]=Utilizzo del Disco
 # Comment[it_IT]=Mostra lo status e l'utilizzo del disco

@@ -1,12 +1,10 @@
 # Japanese localization file for Sparky XDF.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
 # Under the GNU GPL v2
-# Last update 2015/12/23
+# Last update 2018/08/01 by pavroo
 # Translated to Japanese by BALLOON a.k.a. Fu-sen.
-
 LOCAL1="ディスク使用量"
 LOCAL2="終了"
-
 ### .desktop file to be translated too
 # Name[ja_JP]=ディスク使用量
 # Comment[ja_JP]=ディスク使用量の状況を表示します

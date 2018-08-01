@@ -1,11 +1,9 @@
 # Arquivo de localização para Portugues de Portugal do Sparky XDF.
 # Copyright 2016 Joel Chaves "Flacc" <joel_chaves@icloud.com> Thursday 14 January 01:32:31 WET 2016
 # Sob a Licença GNU GPL v2
-# Última atualização Thursday 14 January 01:32:31 WET 2016
-
+# Last update 2018/08/01 by pavroo
 LOCAL1="Utilização_do_Disco"
 LOCAL2="Sair "
-
 ### .desktop file to be translated too
 # Name[pt_PT]=Utilização do Disco
 # Comment[pt_PT]=Mostra o estado da utilização do Disco
