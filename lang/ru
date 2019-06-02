@@ -1,0 +1,9 @@
+# Файл русской локализации для Sparky XDF.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
+# Под лицензией GNU GPL v2
+# Last update 2018/08/01 by pavroo
+LOCAL1="Использование диска"
+LOCAL2="Выход"
+### .desktop file to be translated ChourS
+# Name[ru_RU]=Использование диска
+# Comment[ru_RU]=Показывает статус использования диска

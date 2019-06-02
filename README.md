@@ -1,8 +1,7 @@
 Disk Usage
 This tool shows status of the disk usage. It's a Yad based GUI front-end for df command.
 
-Copyright: 2013-2016 Paweł Pijanowski and others, see copyright file.
-
+Copyright: 2013-2019 Paweł Pijanowski and others, see copyright file.
 
 Files: /usr/share/WindowMaker/Themes/Sparky.themed/*
 Copyright: 2016 pavroo <pavroo@onet.eu>
