@@ -8,6 +8,10 @@ Files: *
 File: 'sparky-xdg' is based on 'xdg' script created by Victor Ananjevsky <ananasik@gmail.com> 2012
     License: GNU GPLv3
 
+File: el
+    Copyright 2019 jidan
+    License: GNU GPL-3
+
 File: es
     Copyright (C) 2016 Fernando "seacat" Velo <seacat.linux@gmail.com>
     License: GPL-2
