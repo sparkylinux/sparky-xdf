@@ -1,9 +1,14 @@
 # Fichier de localisation française de Sparky XDF.
 # Copyright 2016 hiver <hiver@club-internet.fr> 2016/05/12
 # Sous licence GNU GPL v2
-# Last update 2018/08/01 by pavroo
+# Last update 2021/02/28 by pavroo
 LOCAL1="Utilisation_du_disque"
 LOCAL2="Quitter"
+LOCAL3="Disk space usage"
+LOCAL4="Name"
+LOCAL5="Size"
+LOCAL6="Available"
+LOCAL7="Mount point"
 ### .desktop file to be translated too
 # Name[fr_FR]=Utilisation du disque
 # Comment[fr_FR]=Montre le niveau d'utilisation du disque

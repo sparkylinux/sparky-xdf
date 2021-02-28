@@ -1,10 +1,15 @@
 # Polish localization file for Sparky XDF.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
 # Under the GNU GPL v2
-# Last update 2018/08/01 by pavroo
 # Translated to Polish by pavroo
+# Last update 2021/02/28 by pavroo
 LOCAL1="Użycie_Dysku"
 LOCAL2="Zamknij"
+LOCAL3="Użycie przestrzeni dysku"
+LOCAL4="Nazwa"
+LOCAL5="Rozmiar"
+LOCAL6="Dostępność"
+LOCAL7="Punkt montowania"
 ### .desktop file, również do przetłumaczenia
 # Name[pl_PL]=Użycie Dysku
 # Comment[pl_PL]=Wyświetla stan użycia dysku

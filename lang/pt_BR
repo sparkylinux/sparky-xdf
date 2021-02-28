@@ -3,9 +3,14 @@
 # Traduzido por  Joel Chaves "Flacc"  <joel_chaves@icloud.com> 14/01/2016
 # Revisado e adaptado por Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com> 30/01/2016
 # Sob a Licença GNU GPL v2
-# Last update 2018/08/01 by pavroo
+# Last update 2021/02/28 by pavroo
 LOCAL1="Utilização_do_Disco"
-LOCAL2="Sair "
+LOCAL2="Sair"
+LOCAL3="Disk space usage"
+LOCAL4="Name"
+LOCAL5="Size"
+LOCAL6="Available"
+LOCAL7="Mount point"
 ### .desktop file to be translated too
 # Name[pt_BR]=Utilização do Disco
 # Comment[pt_BR]=Mostra o estado da utilização do disco

@@ -1,10 +1,15 @@
 # Indonesian localization file for Sparky XDF.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
 # Under the GNU GPL v2
-# Last update 2018/08/01 by pavroo
 # Translated to Indonesian by les kompie
+# Last update 2021/02/28 by pavroo
 LOCAL1="Pemakaian Disk"
 LOCAL2="Keluar"
+LOCAL3="Disk space usage"
+LOCAL4="Name"
+LOCAL5="Size"
+LOCAL6="Available"
+LOCAL7="Mount point"
 ### .desktop file to be translated too
 # Name[id_ID]=Pemakaian Disk
 # Comment[id_ID]=Menunjukkan status pemakaian disk

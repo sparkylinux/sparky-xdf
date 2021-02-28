@@ -5,8 +5,8 @@
 # Author: Victor Ananjevsky <ananasik@gmail.com> 2012
 #
 # Remastered for SparkyLinux by Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2013/06/07
-# Copyright Paweł Pijanowski 2013-2020 under the GNU GPL3 License
-# Last update 2020/10/11
+# Copyright Paweł Pijanowski 2013-2021 under the GNU GPL3 License
+# Last update 2021/02/28
 
 # get default's locale file
 DEFLOCDIR="/usr/share/sparky/sparky-xdf"
@@ -35,7 +35,8 @@ elif [ "`cat /etc/default/locale | grep LANG= | grep ru`" != "" ]; then
 else
 . $DEFLOCDIR/en
 fi
+#
+lsblk -o NAME,SIZE,FSAVAIL,MOUNTPOINT | tail -n +2 | awk '{printf "%s\n%s\n%s\n%s\n", $1, $2, $3, $4}' |\
+    yad --window-icon=drive-harddisk --width=700 --height=450 --center --image=drive-harddisk --text="$LOCAL3" --title="$LOCAL1" --button=$LOCAL2:0 --list --no-selection --column="$LOCAL4" --column="$LOCAL5" --column="$LOCAL6" --column="$LOCAL7"
 
-eval exec yad --window-icon=drive-harddisk --image=drive-harddisk --title="$LOCAL1" --buttons-layout=end --button=$LOCAL2:0 --multi-progress \
-        $(df -h $1 | tail -n +2 | awk '{printf "--bar=\"<b>%s</b> (%s) [%s/%s]\" %s ", $6, $1, $3, $2, $5}')
 exit 0

@@ -1,9 +1,14 @@
-# Greek localization file for Sparky XDF.
+# Greek localization file for Sparky XDF by jidan
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
 # Under the GNU GPL v2
-# Last update 2019/11/06 by jidan
+# Last update 2021/02/28 by pavroo
 LOCAL1="Χρήση_Δίσκου"
 LOCAL2="Έξοδος"
+LOCAL3="Disk space usage"
+LOCAL4="Name"
+LOCAL5="Size"
+LOCAL6="Available"
+LOCAL7="Mount point"
 ### .desktop file to be translated too
 # Name[el_GR]=Χρήση Δίσκου
 # Comment[el_GR]=Δείχνει στατιστικά σχετικά με τη χρήση του δίσκου
