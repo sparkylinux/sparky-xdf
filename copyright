@@ -2,7 +2,7 @@ Upstream Author:
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
 
 Files: *
-    Copyrigt (C) Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2013-2021
+    Copyrigt (C) Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2013-2022
     License: GNU GPLv3
 
 File: 'sparky-xdg' is based on 'xdg' script created by Victor Ananjevsky <ananasik@gmail.com> 2012
@@ -14,11 +14,11 @@ File: el
 
 File: es
     Copyright (C) 2016 Fernando "seacat" Velo <seacat.linux@gmail.com>
-    License: GPL-2
+    License: GPL-3
 
 File: fr
     Copyright (C) 2016 hiver <hiver@club-internet.fr>
-    License: GPL-2
+    License: GPL-3
 
 File: hu
     Copyright 2019 Nemomen
@@ -26,23 +26,24 @@ File: hu
 
 File: id_ID
     Copyright (C) 2018 les kompie
-    License: GPL-2
+    License: GPL-3
 
 File: it
     Copyright (C) 2015 Carlo‚ "malato" Troiani <abbassolafrangetta@gmail.com>
-    License: GPL-2
+    Copyright 2022 Yodel Sinatra <mastodon.uno/@YodelSinatra>
+    License: GPL-3
 
 File: ja
     Copyright (C) 2016 BALLOON a.k.a. Fu-sen
-    License: GPL-2
+    License: GPL-3
 
 File: pt_BR
     Copyright (C) 2016 Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com>
-    License: GPL-2
+    License: GPL-3
 
 File: pt_PT
     Copyright (C) 2016 Joel Chaves "Flacc" <joel_chaves@icloud.com>
-    License: GPL-2
+    License: GPL-3
 
 File: ru
     Copyright 2019 ChourS2008

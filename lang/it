@@ -1,13 +1,14 @@
 # File di localizzazione in Italiano per Sparky XDF.
 # Copyright 2015 Carlo Troiani <troianicarlo@gmail.com> 12/11/2015
 # Rilasciato sotto licenza GNU GPL v2
+# Ultimo aggiornamento 2022/05/18 by Yodel Sinatra <mastodon.uno/@YodelSinatra>
 # Last update 2021/02/28 by pavroo
 LOCAL1="Utilizzo_del_Disco"
 LOCAL2="Esci"
-LOCAL3="Disk space usage"
-LOCAL4="Name"
-LOCAL5="Size"
-LOCAL6="Available"
+LOCAL3="Utilizzo dello spazio su Disco"
+LOCAL4="Nome"
+LOCAL5="Dimensione"
+LOCAL6="Disponibile"
 LOCAL7="Mount point"
 ### .desktop file to be translated too
 # Name[it_IT]=Utilizzo del Disco
