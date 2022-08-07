@@ -1,0 +1,15 @@
+# Spanish (es_ES) localization file for Sparky XDF.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
+# Under the GNU GPL v2
+# Last update 2021/02/28 by pavroo
+# Translated by depaz
+LOCAL1="Uso_de_disco"
+LOCAL2="Salir"
+LOCAL3="Uso de espacio de disco"
+LOCAL4="Nombre"
+LOCAL5="Tamaño"
+LOCAL6="Disponible"
+LOCAL7="Punto de montaje"
+### .desktop file to be translated too
+# Name[es_ES]=Uso de disco
+# Comment[es_ES]=Muestra el estado de uso de disco

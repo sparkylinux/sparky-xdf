@@ -1,7 +1,8 @@
 [Desktop Entry]
 Name=Disk Usage
 Name[el]=Χρήση Δίσκου
-Name[es]=Uso del Disco
+Name[es_AR]=Uso del Disco
+Name[es_ES]=Uso de disco
 Name[fr]=Utilisation du disque
 Name[it]=Utilizzo del Disco
 Name[id]=Pemakaian Disk
@@ -12,7 +13,8 @@ Name[pt_PT]=Utilização do Disco
 Name[ru]=Использование диска
 Comment=Shows status of the disk usage
 Comment[el]=Δείχνει στατιστικά σχετικά με τη χρήση του δίσκου
-Comment[es]=Muestra el estado del uso del disco
+Comment[es_AR]=Muestra el estado del uso del disco
+Comment[es_ES]=Muestra el estado de uso de disco
 Comment[fr]=Montre le niveau d'utilisation du disque
 Comment[id]=Menunjukkan status pemakaian disk
 Comment[it]=Mostra lo status e l'utilizzo del disco
