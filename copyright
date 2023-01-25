@@ -2,7 +2,7 @@ Upstream Author:
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
 
 Files: *
-    Copyrigt (C) Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2013-2022
+    Copyrigt (C) Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2013-2023
     License: GNU GPLv3
 
 File: 'sparky-xdg' is based on 'xdg' script created by Victor Ananjevsky <ananasik@gmail.com> 2012
@@ -53,6 +53,10 @@ File: ru
     Copyright 2019 ChourS2008
     License: GNU GPL-3
 
+File: uk
+    Copyright 2023 XalisRatt
+    License: GNU GPL-3
+    
 License:
 
     This package is free software; you can redistribute it and/or modify

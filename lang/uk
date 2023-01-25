@@ -1,0 +1,15 @@
+# Файл української локалізації для Sparky XDF.
+# Ukrainian localization made by XalisRatt (Matrix <@xalisqull:arcticfoxes.net>) 2023/01/19
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/11
+# Під ліцензією GNU GPL v2
+# Last update 2021/02/28 by pavroo
+LOCAL1="Використання диску"
+LOCAL2="Вихід"
+LOCAL3="Використання дискового простору"
+LOCAL4="Назва"
+LOCAL5="Розмір"
+LOCAL6="Доступно"
+LOCAL7="Точка монтування"
+### .desktop file to be translated too
+# Name[uk_UA]=Використання диску
+# Comment[uk_UA]=Показати статус використання диску

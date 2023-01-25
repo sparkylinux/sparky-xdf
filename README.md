@@ -1,7 +1,7 @@
 Disk Usage
 This tool shows status of the disk usage. It's a Yad based GUI front-end to lsblk command.
 
-Copyright: 2013-2022 Paweł Pijanowski and others, see copyright file.
+Copyright: 2013-2023 Paweł Pijanowski and others, see copyright file.
 
 Files: /usr/share/WindowMaker/Themes/Sparky.themed/*
 Copyright: 2016 pavroo <pavroo@onet.eu>
