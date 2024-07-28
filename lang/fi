@@ -1,0 +1,14 @@
+# Suomenkielinen lokalisointitiedosto Sparky XDF:lle.
+# Tekijänoikeus 2015 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 11.11.2015
+# GNU GPL v2:n alla
+# Viimeisin päivitys 2021/02/28 pavroo
+LOCAL1="Levyn_käyttö"
+LOCAL2="Poistu"
+LOCAL3="Levytilan käyttö"
+LOCAL4="Nimi"
+LOCAL5="Koko"
+LOCAL6="Saatavilla"
+LOCAL7="Kiinnityspiste"
+### .desktop-tiedosto myös käännettäväksi
+# Name[fi]=Levyn käyttö
+# Comment[fi]=Näyttää levyn käytön tilan
