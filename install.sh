@@ -16,16 +16,11 @@
 
 if [ "$1" = "uninstall" ]; then
 	rm -f /usr/bin/sparky-xdf
-	rm -f /usr/lib/sparkycenter/disk/sparky-xdf.desktop
 	rm -f /usr/share/applications/sparky-xdf.desktop
 	rm -f /usr/share/menu/sparky-xdf
 	rm -rf /usr/share/sparky/sparky-xdf
 else
 	cp bin/* /usr/bin/
-	if [ ! -d /usr/lib/sparkycenter/disk ]; then
-		mkdir -p /usr/lib/sparkycenter/disk
-	fi
-	cp share/sparky-xdf.desktop /usr/lib/sparkycenter/disk/
 	cp share/sparky-xdf.desktop /usr/share/applications/
 	cp share/sparky-xdf /usr/share/menu/
 	if [ ! -d /usr/share/sparky/sparky-xdf ]; then

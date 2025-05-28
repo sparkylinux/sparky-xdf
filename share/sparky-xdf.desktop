@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Disk Usage
+Name[de_DE]=Festplattennutzung
 Name[el]=Χρήση Δίσκου
 Name[es_AR]=Uso del Disco
 Name[es_ES]=Uso de disco
@@ -14,6 +15,7 @@ Name[pt_PT]=Utilização do Disco
 Name[ru]=Использование диска
 Name[uk]=Використання диску
 Comment=Shows status of the disk usage
+Comment[de_DE]=Zeigt den Status der Festplattennutzung
 Comment[el]=Δείχνει στατιστικά σχετικά με τη χρήση του δίσκου
 Comment[es_AR]=Muestra el estado del uso del disco
 Comment[es_ES]=Muestra el estado de uso de disco
